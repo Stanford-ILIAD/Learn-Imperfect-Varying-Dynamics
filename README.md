@@ -1,8 +1,10 @@
-# Code implementation for the RA-L and ICRA 21 paper 'Learning from Imperfect Demonstrations from Agents with Varying Dynamics'. (Under developping)
+# Code implementation for the RA-L and ICRA 21 paper 'Learning from Imperfect Demonstrations from Agents with Varying Dynamics' [Arxiv](https://arxiv.org/pdf/2103.05910.pdf). (Under developping)
 
 ## Installation
   ``pip install -r requirement.txt``
+
   ``cd imperfect_envs``
+
   ``pip ininstall -e .``
  
 ## Demonstrations
