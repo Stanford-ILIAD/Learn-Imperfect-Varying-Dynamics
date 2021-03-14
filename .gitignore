@@ -1,0 +1,12 @@
+model/
+log/
+execute.sh
+output/
+__pycache__/
+*.pyc
+pytorch-trpo/output/*
+*.swp
+*.swo
+*results/*
+*snapshot/*
+*.pdf
